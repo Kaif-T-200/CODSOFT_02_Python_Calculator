@@ -31,8 +31,9 @@ This application features a modern UI, smooth user interactions, and supports es
 ### Installation & Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/calculator-python-tkinter.git
-   cd calculator-python-tkinter
+   git clone https://github.com/Kaif-T-200/CODSOFT_02_Python_Calculator.git
+   cd CODSOFT_02_Python_Calculator
+
    ```
 2. Run the script:
    ```bash
