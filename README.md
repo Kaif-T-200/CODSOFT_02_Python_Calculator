@@ -1,7 +1,6 @@
-# 🖩 Python GUI Calculator
-
-A sleek, dark-themed **Calculator** built using **Python Tkinter** as part of my **CodSoft Internship Task-01**.  
-This application offers a modern UI, smooth user interactions, and basic arithmetic functionalities.
+# <h1 align="center">🖩 Python GUI Calculator</h1>
+A sleek, dark-themed Calculator built using Python Tkinter.
+This application features a modern UI, smooth user interactions, and supports essential arithmetic operations.
 
 ---
 
@@ -17,8 +16,10 @@ This application offers a modern UI, smooth user interactions, and basic arithme
 
 ## 📸 Screenshot
 
-![Calculator Screenshot](screenshot.png)  
-*(Replace `screenshot.png` with the actual screenshot path)*
+
+<p align="center">
+  <img src="Screenshot.png" alt="Calculator Screenshot" width="400">
+</p>
 
 ---
 
@@ -45,7 +46,7 @@ This application offers a modern UI, smooth user interactions, and basic arithme
 calculator-python-tkinter/
 │
 ├── main.py           # Main calculator application code
-├── screenshot.png    # Screenshot of the application
+├── Screenshot.png    # Screenshot of the application
 └── README.md         # Project documentation
 ```
 
@@ -60,10 +61,10 @@ calculator-python-tkinter/
 ---
 
 ## 📜 License
-This project is licensed under the **MIT License** — feel free to use and modify it.
+This project is licensed under the **[License: MIT](https://github.com/Kaif-T-200/CODSOFT_02_Python_Calculator/blob/main/LICENSE).** — feel free to use and modify it.
 
 ---
 
 ## 🔗 Connect with Me
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/kaif-tarasgar-0b5425326/)
-- GitHub: [Your GitHub Profile](https://x.com/Kaif_T_200)
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/kaif-tarasgar-0b5425326/)
+- X: [My X Profile](https://x.com/Kaif_T_200)
